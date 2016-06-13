@@ -17,3 +17,4 @@ Most of the presentations are based on: https://code.google.com/p/io-2012-slides
 - [2015/02 Intro @ GDG HH Android](http://mtthsfrdrch.github.io/presentations/GDG_HH_And/2015_02_intro/template.html)
 - [2014/07 Intro @ GDG HH Android](http://mtthsfrdrch.github.io/presentations/GDG_HH_And/2014_07_intro/template.html)
 - [2014/06 Intro @ GDG HH Android](http://mtthsfrdrch.github.io/presentations/GDG_HH_And/2014_06_intro/template.html)
+- [2016/06 Intro @ GDG HH Android](http://andretietz.github.io/presentations/GDG_HH_And/2016_06_intro/index.html)
